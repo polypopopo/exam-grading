@@ -1,3 +1,4 @@
+
 fn main() {
     // The easiest way to fix the compiler error is to initialize the
     // variable `x`. By setting its value to an integer, Rust infers its type
